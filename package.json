@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sushmitha2705/Resume-new#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
